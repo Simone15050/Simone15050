@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Jordan Brown 👋
 
-<!--
-**Simone15050/Simone15050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Computer Science student and Software Engineer passionate about game development and solving real-world problems through software.**
 
-Here are some ideas to get you started:
+- 🔭 Currently working on: [2D Platformer Game](---)
+- 🌱 Learning: C# and Game AI
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/jordan-brown-413615233) | Simone15050@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+- Python, C++, C#, SQL
+- Unity, Unreal Game Engine, Visual Studio Code
+
+### Featured Projects:
+- 
+
+
