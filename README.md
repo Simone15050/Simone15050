@@ -17,7 +17,7 @@ A simulation of an autonomous taxi operating in a grid-based town:
 - The taxi navigates to the destination, calculates fare based on distance, and drops the customer off
 - After a 300-minute shift (based on units moved), performance is evaluated by comparing expected vs actual earnings and time
 
-📍 [View the project on GitHub]((https://github.com/Simone15050/Simone15050/tree/main/Final%20Taxi%20Driver-%20Jordan%20Brown%2025))
+📍 [View the project on GitHub](https://github.com/Simone15050/Taxi-Driver-AI)
 
 ## 🌱 Currently Learning
 - 🎮 3D Game Development with Unity  
