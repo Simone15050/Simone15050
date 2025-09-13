@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jordan Brown
 
-🎓 I'm a Computer Science major at Fairleigh Dickinson University with a passion for data analysis, intelligent systems, and solving real-world problems through software. Whether it's building simulations or analyzing datasets, I enjoy turning complex ideas into working solutions.
+🎓 I'm a Computer Science grad at Fairleigh Dickinson University with a passion for data analysis, intelligent systems, and solving real-world problems through software. Whether it's building simulations or analyzing datasets, I enjoy turning complex ideas into working solutions.
 
 ## 💻 Tech Stack
 **Languages:** Python, SQL, C++, C#, R  
-**Tools & Libraries:** Pandas, NumPy, Matplotlib, Jupyter Notebook, RStudio, VS Code  
+**Tools & Libraries:** Excel, Pandas, NumPy, Matplotlib, Jupyter Notebook, RStudio, VS Code  
 **Game Engines:** Unity, Unreal Engine
 
 ## 🚀 Featured Projects
@@ -31,9 +31,8 @@ Performed a detailed exploratory analysis on two datasets:
 
 📍 [View the project on GitHub](https://github.com/Simone15050/eda-seeds-r.git)  
 
-## 🌱 Currently Learning
-- 🎮 3D Game Development with Unity  
-- 📊 Advanced Data Mining techniques using R and RStudio
+## 🌱 Currently Learning 
+- 📊 Excel and SQL
 
 ## 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/jordan-brown-413615233/)
